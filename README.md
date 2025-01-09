@@ -2,7 +2,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the code for De Novo Design of Polymers with Specified Properties Using Reinforcement Learning.
+This is the code for **De Novo Design of Polymers with Specified Properties Using Reinforcement Learning**.
 
 
 ### Prerequisites
@@ -23,3 +23,5 @@ You can use pip to install the required packagess.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+The forward model predicts the target property (yield strength) of polymers based on their structural representation. It is a critical component of RLPolyG, enabling property evaluation during the reinforcement learning process.

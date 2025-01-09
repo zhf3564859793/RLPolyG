@@ -38,3 +38,9 @@ You can use pip to install the required packagess.
   
   1. Synthetic Accessibility: You can find the related model in the SA score folder.
   2. Degradability: You can find the related model in the degradability prediction folder. We first collected degradability data from Yuan et al.’s work. Using this data, we constructed a random forest model to predict the degradability score of the generated polymers, which also took MFF as input features.
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [ReLeaSE](https://github.com/isayev/ReLeaSE)

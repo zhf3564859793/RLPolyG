@@ -15,7 +15,7 @@ The version of python:
 
 ### Installation
 
-You can use pip to install them.
+You can use pip to install the required packagess.
 
   ```sh
   pip install requirements.txt -r

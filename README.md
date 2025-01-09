@@ -44,3 +44,5 @@ You can use pip to install the required packagess.
 ## Acknowledgments
 
 * [ReLeaSE](https://github.com/isayev/ReLeaSE)
+* [Polymer-degradability-ranking](https://github.com/tsudalab/Polymer-degradability-ranking)
+* [SA score](https://github.com/rdkit/rdkit/blob/master/Contrib/SA_Score/sascorer.py)

@@ -7,10 +7,16 @@ This is the code for De Novo Design of Polymers with Specified Properties Using 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+The version of python:
 * npm
   ```sh
-  npm install npm@latest -g
+  python==3.9.19
   ```
 
 ### Installation
+
+You can use pip to install them.
+* npm
+  ```sh
+  pip install requirements.txt -r
+  ```

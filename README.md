@@ -20,3 +20,6 @@ You can use pip to install the required packagess.
   ```sh
   pip install requirements.txt -r
   ```
+
+<!-- USAGE EXAMPLES -->
+## Usage

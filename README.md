@@ -15,8 +15,7 @@ The version of python:
 
 ### Installation
 
-You can use pip to install them.
-* npm
+* You can use pip to install them.
   ```sh
   pip install requirements.txt -r
   ```

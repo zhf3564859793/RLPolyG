@@ -8,7 +8,7 @@ This is the code for De Novo Design of Polymers with Specified Properties Using 
 ### Prerequisites
 
 The version of python:
-* npm
+* 
   ```sh
   python==3.9.19
   ```

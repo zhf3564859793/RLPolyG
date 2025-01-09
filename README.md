@@ -27,3 +27,6 @@ You can use pip to install the required packagess.
 * Forward model
   
 You can find the forward model in the forward_model_0919.ipynb. The forward model predicts the target property (yield strength) of polymers based on their structural representation. It is a critical component of RLPolyG, enabling property evaluation during the reinforcement learning process.
+
+* Inverse model
+  The inverse model aims to generate polymers with specified properties.

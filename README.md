@@ -8,14 +8,15 @@ This is the code for De Novo Design of Polymers with Specified Properties Using 
 ### Prerequisites
 
 The version of python:
-* 
+
   ```sh
   python==3.9.19
   ```
 
 ### Installation
 
-* You can use pip to install them.
+You can use pip to install them.
+
   ```sh
   pip install requirements.txt -r
   ```

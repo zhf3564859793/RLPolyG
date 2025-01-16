@@ -4,6 +4,8 @@
 
 This is the code for **De Novo Design of Polymers with Specified Properties Using Reinforcement Learning**.
 
+![image]([https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/zhf3564859793/RLPolyG/blob/main/Figure/Figure%201.jpg))
+
 
 ### Prerequisites
 

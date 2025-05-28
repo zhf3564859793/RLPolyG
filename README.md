@@ -2,7 +2,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the code for **De Novo Design of Polymers with Specified Properties Using Reinforcement Learning**.
+This is the code for [**De Novo Design of Polymers with Specified Properties Using Reinforcement Learning**](https://pubs.acs.org/doi/10.1021/acs.macromol.5c00427).
 
 ![image](https://github.com/zhf3564859793/RLPolyG/blob/main/Figure/Figure%201.jpg)
 

@@ -48,3 +48,16 @@ You can use pip to install the required packagess.
 * [ReLeaSE](https://github.com/isayev/ReLeaSE)
 * [Polymer-degradability-ranking](https://github.com/tsudalab/Polymer-degradability-ranking)
 * [SA score](https://github.com/rdkit/rdkit/blob/master/Contrib/SA_Score/sascorer.py)
+
+## How to cite
+
+```bibtex
+@article{zhou2025novo,
+  title = {De Novo Design of Polymers with Specified Properties Using Reinforcement Learning},
+  author = {Zhou, Haifan and Fang, Yue and Li, Linyan and Liu, Pingwei and Gao, Hanyu},
+  journal = {Macromolecules},
+  year = {2025},
+  publisher = {ACS Publications},
+  doi = {10.1021/acs.macromol.5c00427},
+  url = {https://doi.org/10.1021/acs.macromol.5c00427}
+}
